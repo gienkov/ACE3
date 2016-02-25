@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project name="ACE">
     <Package name="Medical">
         <Key ID="STR_ACE_Medical_Injuries">
@@ -2081,7 +2081,14 @@
             <Czech>%1 již obvázal pacienta</Czech>
         </Key>
         <Key ID="STR_ACE_Medical_Activity_cpr">
-            <English>%1 started CPR</English>
+            <English>%1 performed CPR</English>
+            <Czech>%1 provádí CPR</Czech>
+            <German>%1 hat eine HLW durchgeführt</German>
+            <Italian>%1 ha eseguito CPR</Italian>
+            <Polish>%1 wykonał cykl RKO</Polish>
+            <Portuguese>%1 realizou RCP</Portuguese>
+            <Russian>%1 провел сердечно-легочную реанимацию</Russian>
+            <Spanish>%1 realicó RCP</Spanish>
         </Key>
         <Key ID="STR_ACE_Medical_Activity_usedItem">
             <English>%1 used %2</English>
